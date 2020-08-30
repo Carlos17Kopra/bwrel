@@ -43,6 +43,7 @@ public class BedWars extends JavaPlugin {
         init();
         Bukkit.getMessenger().registerOutgoingPluginChannel(this, "BungeeCord");
         con.connect();
+        System.out.println("Bedwars geladen");
 
         MinecraftServer.getServer().setMotd("waiting");
 
