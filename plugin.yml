@@ -1,0 +1,5 @@
+name: Bedwars
+version: 1.0.0
+main: de.carlos17kopra.bwrel.BedWars
+author: Carlos17Kopra
+commands:

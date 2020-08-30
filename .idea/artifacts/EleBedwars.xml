@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EleBedwars">
+    <output-path>$PROJECT_DIR$/out/artifacts/EleBedwars</output-path>
+    <root id="archive" name="EleBedwars.jar">
+      <element id="module-output" name="bwrel" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>
