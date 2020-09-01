@@ -15,6 +15,13 @@ public class BedWars extends JavaPlugin {
 
     public static BedWars plugin;
 
+    
+    /*
+    *
+    * Jonas Stinkt
+    *
+    */
+    
     private String prefix;
 
     //sql
